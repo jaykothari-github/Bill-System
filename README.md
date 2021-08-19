@@ -16,6 +16,10 @@ I use different widgets to create buttons, labels, frames and entry field.
 
 ## Screen Look:
 
-<!-- Screen 1 -->
+### Screen 1
 
 ![Billing System Look](https://github.com/jaykothari-github/Bill-System/blob/main/Screen_1.jpg?raw=true)
+
+### Screen 2
+
+![Billing System Look](https://github.com/jaykothari-github/Bill-System/blob/main/Screen_2.jpg?raw=true)
